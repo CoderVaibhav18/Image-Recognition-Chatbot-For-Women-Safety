@@ -3,6 +3,8 @@ import Chatbot from "./components/Chatbot.jsx";
 import Footer from "./components/Footer.jsx";
 
 function App() {
+  console.log();
+  
   return (
     <div className="app-container min-h-screen bg-gradient-to-br from-blue-100 to-purple-50 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-5xl mx-auto space-y-8">
